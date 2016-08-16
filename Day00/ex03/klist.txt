@@ -1,0 +1,5 @@
+Credentials cache: API:21256
+        Principal: gyson@42.US.ORG
+
+          Issued                Expires               Principal
+          Aug 10 17:14:37 2016  Aug 11 03:14:37 2016  krbtgt/42.US.ORG@42.US.ORG
