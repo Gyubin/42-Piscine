@@ -28,6 +28,5 @@ int		ft_ultimate_range(int **range, int min, int max)
 		min++;
 		i++;
 	}
-	free(*range);
 	return (size);
 }

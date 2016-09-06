@@ -60,6 +60,5 @@ char	*ft_concat_params(int argc, char **argv)
 		i++;
 	}
 	str[k - 1] = '\0';
-	free(str);
 	return (str);
 }

@@ -29,6 +29,5 @@ char	*ft_strdup(char *src)
 		i++;
 	}
 	dest[i] = '\0';
-	free(dest);
 	return (dest);
 }

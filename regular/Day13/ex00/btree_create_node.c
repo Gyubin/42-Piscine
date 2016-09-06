@@ -15,7 +15,7 @@
 
 t_btree		*btree_create_node(void *item)
 {
-	t_btree		tmp;
+	t_btree		*tmp;
 
 	tmp = (t_btree *)malloc(sizeof(t_btree));
 	if (tmp)

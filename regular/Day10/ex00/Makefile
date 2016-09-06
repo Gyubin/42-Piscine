@@ -19,7 +19,7 @@ SRC_PATH = ./srcs
 SRC = $(SRC_PATH)/ft_putchar.c $(SRC_PATH)/ft_putstr.c $(SRC_PATH)/ft_strcmp.c \
 	  $(SRC_PATH)/ft_strlen.c $(SRC_PATH)/ft_swap.c
 
-OBJ = ./ft_putchar.o ./ft_putstr.o ./ft_strcmp.o ./ft_strlen.o ./ft_swap.c
+OBJ = ./ft_putchar.o ./ft_putstr.o ./ft_strcmp.o ./ft_strlen.o ./ft_swap.o
 
 CC = gcc
 
